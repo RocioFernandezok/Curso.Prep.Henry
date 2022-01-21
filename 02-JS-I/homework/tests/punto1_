@@ -1,0 +1,5 @@
+Variables: Una variable es la forma mas practica que hay para guardar un tipo de valor y reutilizarlo luego.
+Strings: Las strings se escriben siempre entre commillas, son conjuntos de letras que forman palabras.
+Funciones (argumentos, return): Los argumentosson las palabras que estan adentro de los parentesis de las funciones, estas representan a las variables. Por otro lado, Return es una declaracion, significa retorno y se usa cuando se quiere devolver algo.
+Declaraciones "if": El if se usa como condicional, si dentro de una funcion hay un argumento, depende de si cumple o no con la condicion 2if", entonces la maquina le dara un resultado.
+Valores booleanos (true, false): Son expresiones lógicas que solo resuelven a dos valores: false o true.
