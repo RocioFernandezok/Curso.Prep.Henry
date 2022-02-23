@@ -1,0 +1,5 @@
+* Objetos: Los objetos son contenedores de datos, se simbolizan con los signos "{}" y se utilizan para guardar informacion sobre una sola cosa. Por ejemplo, se puede crear un objeto para una persona donde se guarden sus datos personales como su nombre, edad, direccion, contacto, hobbies, etc.
+* Propiedades: Las propiedades son parte de los objetos, en ellas se guardan datos como pueden ser strings/numeros/booleanos.
+* Métodos: Los métodos tambien son parte de los objetos, con la diferencia de que los métodos son acciones, es decir, funciones que llevan a cabo una accion. 
+* Bucle `for…in`: Es un tipo de bucle for creado para iterar todos las claves dentro de los objetos. 
+* Notación de puntos vs notación de corchetes: La notacion de corchetes se utiliza cuando la propiedad o metodo dentro del objeto viene dado por variables, de esa forma se puede acceder a los valores. A diferencia de la notacion de puntos, que se utiliza cuando se tienen propiamente los nombres de dichas propiedades o métodos. 
