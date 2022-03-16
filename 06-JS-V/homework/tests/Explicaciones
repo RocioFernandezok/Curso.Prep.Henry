@@ -1,0 +1,2 @@
+* `prototype`: prototype es una propiedad de las clases, la cual establece métodos en dichas clases de una sola vez, dandole a los objetos de las clases acceso a los métodos. 
+* _Constructors_ (de Clases): constructor es un método especial para crear e inicializar un objeto creado con una clase.
